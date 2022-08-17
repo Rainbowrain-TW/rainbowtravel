@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/reactrouter2/static/css/main.87cbab95.css",
-    "main.js": "/reactrouter2/static/js/main.9b765e80.js",
-    "index.html": "/reactrouter2/index.html",
-    "main.87cbab95.css.map": "/reactrouter2/static/css/main.87cbab95.css.map",
-    "main.9b765e80.js.map": "/reactrouter2/static/js/main.9b765e80.js.map"
+    "main.css": "/rainbowtravel/static/css/main.87cbab95.css",
+    "main.js": "/rainbowtravel/static/js/main.9b765e80.js",
+    "index.html": "/rainbowtravel/index.html",
+    "main.87cbab95.css.map": "/rainbowtravel/static/css/main.87cbab95.css.map",
+    "main.9b765e80.js.map": "/rainbowtravel/static/js/main.9b765e80.js.map"
   },
   "entrypoints": [
     "static/css/main.87cbab95.css",
